@@ -17,3 +17,7 @@ Welcome to my GitHub page, here I share my learning journey in the world of prog
 I seek to increasingly improve my learning, and I am open to suggestions and partnerships.
 I'm currently looking for my first job in the field, so if you have jobs, call me!
 Welcome to my Github ✨
+
+
+LINKEDIN: https://www.linkedin.com/in/marina-zanrosso-polo/
+PERSONAL PORTIFÓLIO: https://portifoliomarinapolo.vercel.app
