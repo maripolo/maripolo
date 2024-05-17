@@ -1,16 +1,19 @@
-### Hi there 👋
+Olá, mundo!
+Hello, world!
 
-<!--
-**maripolo/maripolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐱‍🏍
 
-Here are some ideas to get you started:
+[pt-br]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seja bem vindo a minha página do GitHub, aqui compartilho minha jornada de aprendizado no mundo da programação. Sou uma pessoa que está em transição de carreira do direito para a programação, com o foco em desenvolvimento Full Stack. Inicialmente, meu foco é no aprendizado da linguagem Javascript e Typescript para depois aprender Java. 
+Busco aprimorar cada vez mais meus aprendizados, e estou aberta a sugestões e parcerias. 
+Atualmente estou em busca do meu primeiro trabalho na área, então se tiver jobs, me chame!
+Seja muito bem vindo ao meu Github ✨
+
+[eng]
+
+
+Welcome to my GitHub page, here I share my learning journey in the world of programming. I am a person who is in a career transition from Attorney to programming, with a focus on Full Stack development. Initially, my focus is on learning the Javascript and Typescript language and then learning Java.
+I seek to increasingly improve my learning, and I am open to suggestions and partnerships.
+I'm currently looking for my first job in the field, so if you have jobs, call me!
+Welcome to my Github ✨
